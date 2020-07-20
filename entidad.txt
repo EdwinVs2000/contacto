@@ -1,0 +1,6 @@
+Registro de Contacto 
+
+CONTACTO
+
+Nombre       Apellido       Numero Telefonico         Correo Electronico
+Tomas        Lopez          5556891475                tomas123l@gmail.com
